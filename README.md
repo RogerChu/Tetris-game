@@ -1,5 +1,6 @@
 # Tetris-game
 
+![Alt Text](/Game_Panel.png)
 
 Implemented the basic functions of Tetris Game with small application template and button events,
 multi-threading and related event processing.
