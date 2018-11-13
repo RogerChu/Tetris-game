@@ -1,0 +1,8 @@
+# Tetris-game
+
+
+Implemented the basic functions of Tetris Game with small application template and button events,
+multi-threading and related event processing.
+
+Applied inheritance of classes, reference of interfaces, and application of multithreading to control the
+falling speed of blocks.
